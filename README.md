@@ -1,4 +1,4 @@
-# Morglab Public Website Frontend
+# MYORGLAB Public Website Frontend
 
 This repository hosts the frontend code for **Morglab’s public-facing marketing website**. Built with React, this site presents Morglab's services, resources, and contact information to visitors. It serves as the main online presence for Morglab and highlights our solutions, offerings, and approach to people analytics and workforce planning.
 
